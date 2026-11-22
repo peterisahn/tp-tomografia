@@ -1,6 +1,6 @@
 # Métodos Computacionales - Reconstrucción y Regularización de Imágenes Tomográficas
 
-Repositorio con el desarrollo, implementación y análisis de métodos numéricos para la reconstrucción de imágenes tomográficas, realizado para la materia **Métodos Computacionales**.
+Desarrollo, implementación y análisis de métodos numéricos para la reconstrucción de imágenes tomográficas, realizado para la materia **Métodos Computacionales**.
 
 El trabajo aborda un problema inverso: reconstruir una imagen a partir de mediciones obtenidas mediante rayos que atraviesan sus píxeles. Para ello, se utilizan herramientas de álgebra lineal, mínimos cuadrados, optimización numérica y regularización, analizando cómo influyen la cantidad de mediciones y el ruido en la calidad de las reconstrucciones.
 
